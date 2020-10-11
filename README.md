@@ -1,2 +1,2 @@
 # Puzzle
-Puzzle without instructions for use
+Puzzle without instructions for use - exploratory testing
